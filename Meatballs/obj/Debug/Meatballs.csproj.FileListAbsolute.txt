@@ -1,0 +1,12 @@
+D:\Projects\VisualStudio\Meatballs\Meatballs\Meatballs\bin\Debug\Meatballs.exe.config
+D:\Projects\VisualStudio\Meatballs\Meatballs\Meatballs\bin\Debug\Meatballs.exe
+D:\Projects\VisualStudio\Meatballs\Meatballs\Meatballs\bin\Debug\Meatballs.pdb
+D:\Projects\VisualStudio\Meatballs\Meatballs\Meatballs\obj\Debug\Meatballs.csprojAssemblyReference.cache
+D:\Projects\VisualStudio\Meatballs\Meatballs\Meatballs\obj\Debug\Meatballs.Meatballs.resources
+D:\Projects\VisualStudio\Meatballs\Meatballs\Meatballs\obj\Debug\Meatballs.Properties.Resources.resources
+D:\Projects\VisualStudio\Meatballs\Meatballs\Meatballs\obj\Debug\Meatballs.csproj.GenerateResource.cache
+D:\Projects\VisualStudio\Meatballs\Meatballs\Meatballs\obj\Debug\Meatballs.csproj.CoreCompileInputs.cache
+D:\Projects\VisualStudio\Meatballs\Meatballs\Meatballs\obj\Debug\Meatballs.exe
+D:\Projects\VisualStudio\Meatballs\Meatballs\Meatballs\obj\Debug\Meatballs.pdb
+D:\Projects\VisualStudio\Meatballs\Meatballs\Meatballs\bin\Debug\Tulpep.NotificationWindow.dll
+D:\Projects\VisualStudio\Meatballs\Meatballs\Meatballs\obj\Debug\Meatballs.csproj.CopyComplete
